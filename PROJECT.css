@@ -1,0 +1,12 @@
+body{
+    background-color: crimson;
+    text-align: center;
+}
+
+img{
+    transition:transform .3S;
+}
+
+img:hover{
+    transform: scale(.9);
+}
